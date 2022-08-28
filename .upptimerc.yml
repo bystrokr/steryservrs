@@ -19,8 +19,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: stery-server.ml
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/bystrokr/steryservers/9106057338007ce6003068ba2b46100dfebca4c1/assets/sterylogo.svg
-  favicon: https://raw.githubusercontent.com/bystrokr/steryservers/master/assets/64.png
+  logoUrl: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
+  favicon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/64.png
   name: Stery Server Check
   theme: night
   introTitle: "**STERY SERVER** Verifica si los servidores de Stery están bien o si no funcionan."
