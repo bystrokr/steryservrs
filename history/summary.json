@@ -1,7 +1,7 @@
 [
   {
     "name": "Stery",
-    "url": "https://stery.dev/en.php",
+    "url": "https://stery.dev/en.php?=sL3o7R0DhY",
     "icon": "https://favicons.githubusercontent.com/stery.dev",
     "slug": "stery",
     "status": "down",
@@ -10,18 +10,18 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 106,
+    "timeDay": 106,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {
-      "2022-08-28": 144
+      "2022-08-28": 156
     }
   },
   {
     "name": "STERY CC Checker",
-    "url": "https://checker.stery.dev/en.php",
+    "url": "https://checker.stery.dev/en.php?=pzRajx2m28",
     "icon": "https://favicons.githubusercontent.com/checker.stery.dev",
     "slug": "stery-cc-checker",
     "status": "down",
@@ -30,18 +30,18 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {
-      "2022-08-28": 144
+      "2022-08-28": 156
     }
   },
   {
     "name": "STERY CCGEN",
-    "url": "https://ccgen.stery.dev/en.php",
+    "url": "https://ccgen.stery.dev/en.php?=mocF3DysJG",
     "icon": "https://favicons.githubusercontent.com/ccgen.stery.dev",
     "slug": "stery-ccgen",
     "status": "down",
@@ -56,12 +56,12 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2022-08-28": 144
+      "2022-08-28": 156
     }
   },
   {
     "name": "STERY GMAIL GEN",
-    "url": "https://gmail.stery.dev/en.php",
+    "url": "https://gmail.stery.dev/en.php?=x6uxZrFR5h",
     "icon": "https://favicons.githubusercontent.com/gmail.stery.dev",
     "slug": "stery-gmail-gen",
     "status": "down",
@@ -70,13 +70,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 78,
-    "timeDay": 78,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
+    "time": 79,
+    "timeDay": 79,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79,
     "dailyMinutesDown": {
-      "2022-08-28": 144
+      "2022-08-28": 156
     }
   },
   {
@@ -90,13 +90,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 276,
-    "timeDay": 276,
-    "timeWeek": 276,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-08-28": 144
+      "2022-08-28": 156
     }
   }
 ]
