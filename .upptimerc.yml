@@ -4,19 +4,19 @@ repo: steryservrs # The name of this repository
 
 sites:
   - name: Stery
-    url: https://stery.dev/en.php
+    url: https://stery.dev/en.php?=sL3o7R0DhY
     expectedStatusCodes:
       - 200
   - name: STERY CC Checker
-    url: https://checker.stery.dev/en.php
+    url: https://checker.stery.dev/en.php?=pzRajx2m28
     expectedStatusCodes:
       - 200
   - name: STERY CCGEN
-    url: https://ccgen.stery.dev/en.php
+    url: https://ccgen.stery.dev/en.php?=mocF3DysJG
     expectedStatusCodes:
       - 200
   - name: STERY GMAIL GEN
-    url: https://gmail.stery.dev/en.php
+    url: https://gmail.stery.dev/en.php?=x6uxZrFR5h
     expectedStatusCodes:
       - 200
   - name: STERY BOSSMAIL
