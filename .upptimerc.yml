@@ -1,31 +1,35 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: bystrokr # Your GitHub organization or username, where this repository lives
+repo: steryservers # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Stery
+    url: https://stery.dev
+  - name: STERY CC Checker
+    url: https://checker.stery.dev
+  - name: STERY CCGEN
+    url: https://ccgen.stery.dev
+  - name: STERY GMAIL GEN
+    url: https://gmail.stery.dev
+  - name: STERY BOSSMAIL
+    url: https://bossmail.ga
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: stery-server.ml
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/bystrokr/steryservers/9106057338007ce6003068ba2b46100dfebca4c1/assets/sterylogo.svg
+  favicon: https://raw.githubusercontent.com/bystrokr/steryservers/master/assets/64.png
+  name: Stery Server Check
+  theme: night
+  introTitle: "**STERY SERVER** Verifica si los servidores de Stery están bien o si no funcionan."
+  introMessage: Esta página tiene la función de mostrar si los servidores y páginas Web de Stery están funcionando con normalidad o si se cayeron.
   navbar:
-    - title: Status
+    - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Contacto
+      href: https://stery.dev/#contacto
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
