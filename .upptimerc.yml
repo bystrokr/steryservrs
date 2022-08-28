@@ -30,6 +30,63 @@ status-website:
       href: /
     - title: Contacto
       href: https://stery.dev/#contacto
+      
+i18n:
+activeIncidents: Incidentes Activos
+allSystemsOperational: Todos los sistemas están funcionando
+incidentReport: "Reporte del Incidente #$NUMBER →"
+activeIncidentSummary: Abierto el $DATE con $POSTS posts
+incidentTitle: Datos del Incidente $NUMBER
+incidentDetails: Detalles del Incidente
+incidentFixed: Arreglado
+incidentOngoing: En curso
+incidentOpenedAt: Registrado el
+incidentClosedAt: Cerrado el
+incidentViewOnGitHub: Ver en Github
+incidentCommentSummary: Publicado el $DATE por Stery
+incidentBack: ← Ir a todos los Incidentes
+pastIncidents: Incidentes Anteriores
+pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
+liveStatus: Funcionando
+overallUptime: "Tiempo de actividad general: $UPTIME"
+overallUptimeTitle: Tiempo de actividad general
+averageResponseTime: "Respuesta promedio: $TIMEms"
+averageResponseTimeTitle: Respuesta promedio
+sevelDayResponseTime: Tiempo de respuesta en los últimos 7 días
+responseTimeMs: Tiempo de Respuesta (ms)
+up: Funciona
+down: Caído
+degraded: Degradado
+ms: ms
+loading: Cargando
+navGitHub: GitHub
+footer: Copyright © 2022
+rateLimitExceededTitle: Límite de velocidad excedido
+rateLimitExceededIntro: Has superado el número de peticiones que puedes hacer en una hora, por lo que tendrás que esperar antes de volver a acceder a este sitio web.
+rateLimitExceededWhatDoesErrorMean: Que significa este error?
+rateLimitExceededErrorMeaning: Este sitio web permite a cada dirección IP 60 peticiones por hora, que has consumido.
+rateLimitExceededErrorHowCanFix: Cómo solucionarlo?
+rateLimitExceededErrorFix: Puedes esperar una hora más y se restablecerá el límite de tu dirección IP.
+rateLimitExceededGeneratePAT: Gracias
+rateLimitExceededHasSet: Ya está puesto.
+rateLimitExceededRemoveToken: Quitar
+rateLimitExceededGitHubPAT: PAT
+rateLimitExceededCopyPastePAT: Copiar y pegar
+rateLimitExceededSaveToken: Listo
+errorTitle: Ha ocurrido un error.
+errorIntro: Se ha producido un error al intentar obtener los últimos detalles.
+errorText: Puedes intentar en unos minutos.
+errorHome: Volver al inicio.
+pastScheduledMaintenance: Mantenimientos programados anteriormente
+scheduledMaintenance: Mantenimiento Programado
+scheduledMaintenanceSummaryStarted: Iniciado el $DATE for $DURATION minutos
+scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutos
+startedAt: Iniciado el
+startsAt: Iniciará el
+duration: Duración
+durationMin: $DURATION minutos
+incidentCompleted: Completado
+incidentScheduled: Programado
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
