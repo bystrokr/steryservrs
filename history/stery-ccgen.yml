@@ -1,7 +1,7 @@
-url: https://ccgen.stery.dev/en.php?=mocF3DysJG
-status: down
+url: $STERY_GEN
+status: up
 code: 403
-responseTime: 99
-lastUpdated: 2022-08-28T23:06:18.490Z
+responseTime: 56
+lastUpdated: 2022-08-29T09:40:47.177Z
 startTime: Sun Aug 28 2022 15:04:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
