@@ -4,27 +4,27 @@ repo: steryservrs # The name of this repository
 
 sites:
   - name: STERY PRINCIPAL
-    url: $STERY
+    url: $ST
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY CC Checker
-    url: $STERY_CHK
+    url: $STCHK
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY CCGEN
-    url: $STERY_GEN
+    url: $STGN
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY GMAIL GEN
-    url: $STERY_GM
+    url: $STGM
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY BOSSMAIL
-    url: $STERY_BM
+    url: $STBM
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
