@@ -1,7 +1,7 @@
 url: $STERY_GM
-status: up
+status: down
 code: 403
-responseTime: 13
-lastUpdated: 2022-08-29T10:39:44.621Z
+responseTime: 22
+lastUpdated: 2022-08-29T18:23:38.295Z
 startTime: Sun Aug 28 2022 15:04:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
