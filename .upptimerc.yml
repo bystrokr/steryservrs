@@ -4,25 +4,25 @@ repo: steryservrs # The name of this repository
 
 sites:
   - name: Stery
-    url: https://stery.dev/en.php?=sL3o7R0DhY
+    url: $STERY
     expectedStatusCodes:
-      - 200
+      - 403
   - name: STERY CC Checker
-    url: https://checker.stery.dev/en.php?=pzRajx2m28
+    url: $STERY_CHK
     expectedStatusCodes:
-      - 200
+      - 403
   - name: STERY CCGEN
-    url: https://ccgen.stery.dev/en.php?=mocF3DysJG
+    url: $STERY_GEN
     expectedStatusCodes:
-      - 200
+      - 403
   - name: STERY GMAIL GEN
-    url: https://gmail.stery.dev/en.php?=x6uxZrFR5h
+    url: $STERY_GM
     expectedStatusCodes:
-      - 200
+      - 403
   - name: STERY BOSSMAIL
-    url: https://bossmail.ga
+    url: $STERY_BM
     expectedStatusCodes:
-      - 200
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
