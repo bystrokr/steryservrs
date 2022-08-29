@@ -36,7 +36,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
   favicon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/64.png
-  name: Stery Server Check
+  name: Stery Server
   theme: night
   introTitle: "**STERY SERVER** Verifica si los servidores están funcionando."
   introMessage: Esta página muestra si los servidores de Stery están funcionando o si están caídos.
