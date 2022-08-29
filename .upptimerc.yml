@@ -7,27 +7,27 @@ sites:
     url: $STERY
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
-      - 403
+      - 200
   - name: STERY CC Checker
     url: $STERY_CHK
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
-      - 403
+      - 200
   - name: STERY CCGEN
     url: $STERY_GEN
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
-      - 403
+      - 200
   - name: STERY GMAIL GEN
     url: $STERY_GM
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
-      - 403
+      - 200
   - name: STERY BOSSMAIL
     url: $STERY_BM
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
-      - 403
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
