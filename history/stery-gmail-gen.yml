@@ -1,7 +1,7 @@
-url: https://gmail.stery.dev/en.php?=x6uxZrFR5h
-status: down
+url: $STERY_GM
+status: up
 code: 403
-responseTime: 58
-lastUpdated: 2022-08-28T23:06:18.896Z
+responseTime: 100
+lastUpdated: 2022-08-29T09:40:48.855Z
 startTime: Sun Aug 28 2022 15:04:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
