@@ -9,7 +9,7 @@ sites:
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
-  - name: STERY CC Checker
+  - name: STERY CHECKER
     url: $STCHK
     user-agent: bystrokr
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
