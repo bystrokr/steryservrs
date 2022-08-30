@@ -1,6 +1,7 @@
 # Change these first
 owner: bystrokr # Your GitHub organization or username, where this repository lives
 repo: steryservrs # The name of this repository
+user-agent: bystrokr
 
 sites:
   - name: STERY PRINCIPAL
@@ -39,7 +40,7 @@ status-website:
   name: Stery Server
   theme: ocean
   introTitle: "**STERY SERVER** Verifica si los servidores están funcionando."
-  introMessage: Esta página muestra si los servidores de Stery están funcionando o si están caídos.
+  introMessage: Aquí puedes ver si nuestros servidores funcionan o están caídos.
   navbar:
     - title: Contacto
       href: https://stery.dev/#contacto
