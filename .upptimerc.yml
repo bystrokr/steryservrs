@@ -5,26 +5,36 @@ repo: steryservrs # The name of this repository
 sites:
   - name: STERY PRINCIPAL
     url: $ST
+    headers:
+      - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY CHECKER
     url: $STCHK
+    headers:
+      - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY CCGEN
     url: $STGN
+    headers:
+      - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY GMAIL
     url: $STGM
+    headers:
+      - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY BOSSMAIL
     url: $STBM
+    headers:
+      - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
