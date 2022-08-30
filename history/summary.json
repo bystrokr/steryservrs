@@ -25,19 +25,17 @@
     "icon": "https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg",
     "slug": "stery-checker",
     "status": "up",
-    "uptime": "24.46%",
-    "uptimeDay": "24.46%",
-    "uptimeWeek": "24.46%",
-    "uptimeMonth": "24.46%",
-    "uptimeYear": "24.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 478,
     "timeDay": 478,
     "timeWeek": 478,
     "timeMonth": 478,
     "timeYear": 478,
-    "dailyMinutesDown": {
-      "2022-08-30": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "STERY CCGEN",
@@ -56,7 +54,7 @@
     "timeMonth": 177,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2022-08-30": 32,
+      "2022-08-30": 33,
       "2022-08-29": 665,
       "2022-08-28": 535
     }
@@ -67,19 +65,17 @@
     "icon": "https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg",
     "slug": "stery-gmail",
     "status": "up",
-    "uptime": "67.53%",
-    "uptimeDay": "67.53%",
-    "uptimeWeek": "67.53%",
-    "uptimeMonth": "67.53%",
-    "uptimeYear": "67.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 428,
     "timeDay": 428,
     "timeWeek": 428,
     "timeMonth": 428,
     "timeYear": 428,
-    "dailyMinutesDown": {
-      "2022-08-30": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "STERY BOSSMAIL",
@@ -87,18 +83,18 @@
     "icon": "https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg",
     "slug": "stery-bossmail",
     "status": "up",
-    "uptime": "52.01%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "52.01%",
-    "uptimeMonth": "52.01%",
-    "uptimeYear": "52.01%",
+    "uptime": "52.36%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "52.36%",
+    "uptimeMonth": "52.36%",
+    "uptimeYear": "52.36%",
     "time": 325,
     "timeDay": 352,
     "timeWeek": 325,
     "timeMonth": 325,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2022-08-30": 25,
+      "2022-08-30": 16,
       "2022-08-29": 665,
       "2022-08-28": 535
     }
