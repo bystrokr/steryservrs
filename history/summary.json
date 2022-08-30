@@ -25,11 +25,11 @@
     "icon": "https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg",
     "slug": "stery-checker",
     "status": "down",
-    "uptime": "55.11%",
-    "uptimeDay": "55.11%",
-    "uptimeWeek": "55.11%",
-    "uptimeMonth": "55.11%",
-    "uptimeYear": "55.11%",
+    "uptime": "55.06%",
+    "uptimeDay": "55.06%",
+    "uptimeWeek": "55.06%",
+    "uptimeMonth": "55.06%",
+    "uptimeYear": "55.06%",
     "time": 399,
     "timeDay": 399,
     "timeWeek": 399,
@@ -67,18 +67,18 @@
     "icon": "https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg",
     "slug": "stery-gmail",
     "status": "up",
-    "uptime": "44.01%",
-    "uptimeDay": "44.01%",
-    "uptimeWeek": "44.01%",
-    "uptimeMonth": "44.01%",
-    "uptimeYear": "44.01%",
+    "uptime": "45.59%",
+    "uptimeDay": "45.59%",
+    "uptimeWeek": "45.59%",
+    "uptimeMonth": "45.59%",
+    "uptimeYear": "45.59%",
     "time": 540,
     "timeDay": 540,
     "timeWeek": 540,
     "timeMonth": 540,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2022-08-30": 105
+      "2022-08-30": 102
     }
   },
   {
@@ -88,7 +88,7 @@
     "slug": "stery-bossmail",
     "status": "down",
     "uptime": "54.27%",
-    "uptimeDay": "90.99%",
+    "uptimeDay": "90.98%",
     "uptimeWeek": "54.27%",
     "uptimeMonth": "54.27%",
     "uptimeYear": "54.27%",
@@ -98,7 +98,7 @@
     "timeMonth": 482,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2022-08-30": 45,
+      "2022-08-30": 46,
       "2022-08-29": 665,
       "2022-08-28": 535
     }
