@@ -5,25 +5,21 @@ repo: steryservrs # The name of this repository
 sites:
   - name: STERY PRINCIPAL
     url: $ST
-    user-agent: bystrokr
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY CHECKER
     url: $STCHK
-    user-agent: bystrokr
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY CCGEN
     url: $STGN
-    user-agent: bystrokr
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY GMAIL
     url: $STGM
-    user-agent: bystrokr
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
@@ -31,7 +27,7 @@ sites:
     url: $STBM
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
-      - 200
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -47,6 +43,7 @@ status-website:
   navbar:
     - title: Contacto
       href: https://stery.dev/#contacto
+  user-agent: bystrokr
       
 i18n:
   activeIncidents: Incidentes Activos
