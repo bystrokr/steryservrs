@@ -1,26 +1,29 @@
 # Change these first
 owner: bystrokr # Your GitHub organization or username, where this repository lives
 repo: steryservrs # The name of this repository
-user-agent: bystrokr
 
 sites:
   - name: STERY PRINCIPAL
     url: $ST
+    user-agent: bystrokr
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY CC Checker
     url: $STCHK
+    user-agent: bystrokr
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
   - name: STERY CCGEN
     url: $STGN
+    user-agent: bystrokr
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
-  - name: STERY GMAIL GEN
+  - name: STERY GMAIL
     url: $STGM
+    user-agent: bystrokr
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
       - 200
