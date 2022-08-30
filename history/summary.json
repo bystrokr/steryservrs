@@ -36,7 +36,7 @@
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2022-08-30": 22,
+      "2022-08-30": 23,
       "2022-08-29": 665,
       "2022-08-28": 535
     }
@@ -69,11 +69,11 @@
     "icon": "https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg",
     "slug": "stery-gmail-gen",
     "status": "down",
-    "uptime": "51.94%",
-    "uptimeDay": "90.94%",
-    "uptimeWeek": "51.94%",
-    "uptimeMonth": "51.94%",
-    "uptimeYear": "51.94%",
+    "uptime": "51.95%",
+    "uptimeDay": "90.95%",
+    "uptimeWeek": "51.95%",
+    "uptimeMonth": "51.95%",
+    "uptimeYear": "51.95%",
     "time": 96,
     "timeDay": 109,
     "timeWeek": 96,
