@@ -5,6 +5,7 @@ repo: steryservrs # The name of this repository
 sites:
   - name: STERY PRINCIPAL
     url: $ST
+    method: POST
     headers:
       - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
@@ -12,6 +13,7 @@ sites:
       - 200
   - name: STERY CHECKER
     url: $STCHK
+    method: POST
     headers:
       - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
@@ -19,6 +21,7 @@ sites:
       - 200
   - name: STERY CCGEN
     url: $STGN
+    method: POST
     headers:
       - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
@@ -26,6 +29,7 @@ sites:
       - 200
   - name: STERY GMAIL
     url: $STGM
+    method: POST
     headers:
       - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
@@ -33,6 +37,7 @@ sites:
       - 200
   - name: STERY BOSSMAIL
     url: $STBM
+    method: POST
     headers:
       - "User-Agent: bystrokr"
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
