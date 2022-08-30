@@ -27,7 +27,7 @@ sites:
     url: $STBM
     icon: https://raw.githubusercontent.com/bystrokr/steryservrs/master/assets/sterylogo.svg
     expectedStatusCodes:
-      - 403
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
