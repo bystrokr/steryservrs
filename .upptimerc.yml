@@ -43,7 +43,6 @@ status-website:
   navbar:
     - title: Contacto
       href: https://stery.dev/#contacto
-  user-agent: bystrokr
       
 i18n:
   activeIncidents: Incidentes Activos
