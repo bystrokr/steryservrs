@@ -1,7 +1,7 @@
 url: $STGN
-status: up
-code: 403
-responseTime: 18
-lastUpdated: 2022-11-19T15:46:57.094Z
+status: down
+code: 521
+responseTime: 181
+lastUpdated: 2022-11-19T15:56:25.582Z
 startTime: Sun Aug 28 2022 15:04:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
