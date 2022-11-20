@@ -1,7 +1,7 @@
 url: $ST
-status: up
-code: 200
-responseTime: 921
-lastUpdated: 2022-11-19T23:06:07.233Z
+status: down
+code: 521
+responseTime: 219
+lastUpdated: 2022-11-20T20:30:18.029Z
 startTime: Mon Aug 29 2022 10:39:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
