@@ -1,7 +1,7 @@
 url: $STGM
 status: up
-code: 200
-responseTime: 1154
-lastUpdated: 2022-11-24T23:07:01.369Z
+code: 403
+responseTime: 7
+lastUpdated: 2022-11-25T23:06:03.752Z
 startTime: Tue Aug 30 2022 09:22:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
