@@ -1,7 +1,7 @@
 url: $STBM
 status: up
-code: 200
-responseTime: 351
-lastUpdated: 2022-11-29T23:06:33.935Z
+code: 403
+responseTime: 20
+lastUpdated: 2022-11-30T23:06:30.794Z
 startTime: Sun Aug 28 2022 15:04:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
