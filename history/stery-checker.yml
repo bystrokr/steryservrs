@@ -1,7 +1,7 @@
 url: $STCHK
 status: up
-code: 200
-responseTime: 840
-lastUpdated: 2022-12-07T23:06:02.966Z
+code: 403
+responseTime: 26
+lastUpdated: 2022-12-08T23:06:46.427Z
 startTime: Tue Aug 30 2022 09:26:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
